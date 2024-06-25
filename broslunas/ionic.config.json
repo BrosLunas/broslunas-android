@@ -1,0 +1,7 @@
+{
+  "name": "Broslunas",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
