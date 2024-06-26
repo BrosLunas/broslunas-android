@@ -1,5 +1,5 @@
 <?xml version='1.0.2' encoding='utf-8'?>
-<widget id="com.broslunas.Broslunas" version="1.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="com.broslunas.Broslunas" version="1.0.3" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>Broslunas</name>
     <description>La app de broslunas.</description>
     <author email="broslunasce@gmail.com" href="http://broslunas.vercel.app/">Broslunas</author>
